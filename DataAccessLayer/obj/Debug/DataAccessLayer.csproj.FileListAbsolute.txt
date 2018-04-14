@@ -1,0 +1,10 @@
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Maksudul\Documents\Visual Studio 2015\Projects\RES\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Maksudul\documents\visual studio 2015\Projects\RealState\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

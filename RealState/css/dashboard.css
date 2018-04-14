@@ -1,0 +1,105 @@
+﻿body {
+    margin:0px;
+}
+
+.header{
+    height:60px;
+    width:100%;
+    background:#333;
+    border-bottom:3px solid gray;
+}
+
+.left h1{
+    margin:0px;
+    line-height:60px;
+    color:#ccc;
+    padding-left:100px;
+    float:left;
+}
+
+.right{
+    margin-left:50%;
+    text-align:right;
+    padding-right:100px;
+}
+
+.right input[type="submit"]{
+    width:100px;
+    height:30px;
+    margin:15px;
+    border:1px solid #ccc;
+    border-radius:2px;
+    background:#333;
+    color:#ccc;
+    font:bold 16px calirbi;
+    cursor:pointer;
+}
+
+.right input[type="submit"]:hover{
+    background:#ccc;
+    color:black;
+}
+
+.footer{
+    height:150px;
+    width:100%;
+    background:#eee;
+    text-align:center;
+}
+
+.footer h1{
+    padding:50px 0px 10px 0px;
+}
+
+
+.copyright p{
+    font-family:consolas;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.menu{
+    height:50px;
+    width:100%;
+    background:#fafafa;
+}
+
+.menu ul{
+    margin:0px;
+    list-style-type:none;
+    float:right;
+    padding-right:100px;
+
+}
+.menu li {
+    float:left;
+}
+
+.menu li a{
+    text-decoration:none;
+    color:black;
+    display:block;
+    padding:0px 20px;
+    line-height:50px;
+    font-family:calibri;
+    font-size:16px;
+    font-weight:bold;
+    
+}
+
+.menu li a:hover{
+    background:#4caf50;
+    color:white;
+}
+
+.list{
+    text-align:center;
+    color:#007bff;
+    width:80%;
+    margin:0px auto;
+}
+
+.list h1{
+    padding:20px;
+    border-bottom:4px dashed #ccc;
+}

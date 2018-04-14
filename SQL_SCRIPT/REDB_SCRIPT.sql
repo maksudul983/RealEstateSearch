@@ -1,0 +1,44 @@
+CREATE DATABASE REDB
+
+USE REDB
+
+CREATE TABLE [Admin](
+	AdminID		INT PRIMARY KEY IDENTITY,
+	AdminName	VARCHAR(100) NOT NULL,
+	[Password]	VARCHAR(100) NOT NULL,
+	
+	
+	
+)
+
+CREATE TABLE [User](
+	UserID			INT PRIMARY KEY IDENTITY,
+	UserName		VARCHAR(100) NOT NULL,
+	[Password]		VARCHAR(100) NOT NULL,
+)
+
+CREATE PROC SP_SELECT_ADMIN
+@adminname		VARCHAR(100),
+@password		VARCHAR(100)
+
+AS
+BEGIN
+	SELECT * FROM [Admin] WHERE AdminName=@adminname AND [Password]=@password
+END
+
+
+CREATE PROC SP_SELECT_USER
+@username		VARCHAR(100),
+@password		VARCHAR(100)
+
+AS
+BEGIN
+	SELECT * FROM [User] WHERE Username=@username AND [Password]=@password
+END
+
+SELECT * FROM [uSER]
+
+INSERT INTO [User] VALUES 
+('Rahat','123'),
+('Sujan','78526');
+

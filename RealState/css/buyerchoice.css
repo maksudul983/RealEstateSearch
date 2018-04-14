@@ -1,0 +1,69 @@
+﻿body {
+    margin:0px auto;
+    background:#fafafa;
+}
+
+h1{
+    text-align:center;
+    color:cadetblue;
+    font-family:calibri;
+
+}
+
+.container{
+    margin:0px auto;
+    height: 820px;
+    width:500px;
+    border:1px white;
+    text-align:center;
+}
+
+.ddl{
+    height:35px;
+    width:217px;
+    margin-left:5px;
+    border:1px solid cadetblue;
+}
+
+table{
+    text-align:left;
+    margin:0px auto;
+    margin-top:40px;
+
+}
+
+.text-box{
+    width:200px;
+    height:30px;
+    padding-left:15px;
+    margin:5px;
+    border:1px solid cadetblue;
+    font:16px calibri;
+}
+
+.text-area{
+    margin-left:5px;
+    height:60px;
+    width:197px;
+    padding-left:15px;
+    border:1px solid cadetblue;
+    font:16px calibri;
+}
+
+.label{
+    font:bold 16px calibri;
+}
+
+.button{
+    height:40px;
+    width:120px;
+    margin-top:20px;
+    border:1px solid #555;
+    background:white;
+}
+
+.button:hover{
+    background:green;
+    cursor:pointer;
+    color:white;
+}

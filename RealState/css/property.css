@@ -1,0 +1,22 @@
+﻿
+body{
+    margin:0px;
+}
+
+.container{
+      margin: 40px auto;
+      padding: 20px;
+      box-sizing:  border-box;
+      background: #fff;
+}
+
+.ddl{
+    font:bold 14px calibri;
+    padding-left:10px;
+}
+
+.file {
+    margin-left:5px;
+    height:30px;
+    
+}

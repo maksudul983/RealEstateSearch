@@ -1,0 +1,14 @@
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+c:\Users\Maksudul\documents\visual studio 2015\Projects\RES\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+c:\users\maksudul\documents\visual studio 2015\Projects\RealState\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

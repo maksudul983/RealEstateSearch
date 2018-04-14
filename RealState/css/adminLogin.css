@@ -1,0 +1,77 @@
+﻿body {
+    margin:0px;
+    background:#fafafa;
+}
+
+.container{
+    height:400px;
+    width:400px;
+    margin:0px auto;
+    background:#eee;
+    margin-top:100px;
+    text-align:center;
+    border:white;
+    padding-left:100px;
+}
+
+h1{
+    color:#4caf50;
+    font:bold 40px consolas;
+}
+
+table{
+    margin:0px auto;
+}
+
+.text-box{
+    height:40px;
+    width:240px;
+    border:1px solid #226688;
+    margin-top:10px;
+    margin-bottom:20px;
+    padding-left:20px;
+    font:bold 16px garamond;
+}
+
+.button{
+    height:40px;
+    width:120px;
+    border:1px solid black;
+    background:#fafafa;
+    margin-bottom:20px;
+    font:bold 20px garamond;
+}
+
+.button:hover{
+    cursor:pointer;
+    background:green;
+    color:white;
+}
+
+.registration-link{
+    width:400px;
+    margin:0px auto;
+    margin-top:20px;
+    text-align:center;
+    border:1px solid black;
+    font:bold 20px garamond;
+    background:#fafafa;
+}
+
+.registration-link a{
+    text-decoration:none;
+    color:black;
+}
+
+.registration-link a:hover{
+    text-decoration:underline;
+    color:blue;
+}
+
+.validation-summary{
+    margin:0px auto;
+    width:400px;
+    font:bold 12px consolas;
+    color:red;
+    
+}

@@ -1,0 +1,19 @@
+﻿body {
+}
+
+h4 {
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    font-size: large;
+    letter-spacing: 2px;
+    text-align:center;
+    color: black;
+}
+
+.a{
+    width: 700px;
+    padding-left: 30px;
+    margin: 0 auto;
+}
